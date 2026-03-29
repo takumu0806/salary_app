@@ -31,11 +31,10 @@
 
 | ダッシュボード (通常表示) | ダッシュボード (プライバシーモード) |
 |:---:|:---:|
-| <img src="https://placehold.jp/150x150.png?text=Image" width="300"> | <img src="https://placehold.jp/150x150.png?text=Image" width="300"> |
+| <img src="dashboard.png" width="300"> | <img src="dashboard_privacy.png" width="300"> |
 | **給与登録・計算画面** | **項目管理画面** |
-| <img src="https://placehold.jp/150x150.png?text=Image" width="300"> | <img src="https://placehold.jp/150x150.png?text=Image" width="300"> |
+| <img src="salary_regist.png" width="300"> | <img src="settings.png" width="300"> |
 
-*(※GitHubにPush後、上記リンクを実際のスクリーンショット画像へのパスに書き換えてください)*
 
 ---
 
