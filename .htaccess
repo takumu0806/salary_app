@@ -1,0 +1,5 @@
+# env.php へのブラウザからの直接アクセスを禁止する
+<Files env.php>
+    Order allow,deny
+    Deny from all
+</Files>

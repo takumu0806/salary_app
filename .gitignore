@@ -1,0 +1,13 @@
+# データベース接続情報 (最重要：絶対に公開しない)
+env.php
+
+# OSが生成する一時ファイル
+.DS_Store
+Thumbs.db
+
+# エディタ・IDEの設定
+.vscode/
+.idea/
+
+# ログファイル
+*.log
